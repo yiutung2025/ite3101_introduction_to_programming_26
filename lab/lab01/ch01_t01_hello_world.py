@@ -1,2 +1,2 @@
 print("Hello, world!")
- rint Statements
+ print Statements
