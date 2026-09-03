@@ -1,2 +1,2 @@
 print("Hello, world!")
- print(Statements") Statements
+ print("Statements") Statements
