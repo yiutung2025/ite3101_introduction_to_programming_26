@@ -1,1 +1,1 @@
-Python Syntax = ()
+Python Syntax = ('')
