@@ -1,1 +1,1 @@
-product = 2 8
+product = 2 * 8
