@@ -1,2 +1,2 @@
 product = 2 * 8
-remander = 1398 % 
+remainder = 1398 % 
