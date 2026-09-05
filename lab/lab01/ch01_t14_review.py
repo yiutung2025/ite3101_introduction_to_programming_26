@@ -3,4 +3,4 @@ exercises_completed = 13
 points_per_exercise = 5
 point_total = 100
 points_per_exercise += exercises_completed * oints_per_exercise
-print ('I got ' + str())
+print ('I got ' + str(point_total))
