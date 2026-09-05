@@ -1,6 +1,7 @@
 haiku = """
 The old pond,
-A frog jumps in:\nPlop!\n
+A frog jumps in:
+Plop!\n
 
 
 """
