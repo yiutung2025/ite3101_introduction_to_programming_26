@@ -1,1 +1,1 @@
-= ('Python Syntax')
+skill_completed = ('Python Syntax')
