@@ -1,2 +1,2 @@
 product = 2 * 8
-reminder = 1398 % 
+remander = 1398 % 
