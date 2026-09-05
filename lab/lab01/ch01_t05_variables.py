@@ -1,4 +1,4 @@
 import datetime 
 
 todays_date = f"{datetime.datetime.now():%d/%m%y}"
-print ('date_time')
+print ('date_time');
