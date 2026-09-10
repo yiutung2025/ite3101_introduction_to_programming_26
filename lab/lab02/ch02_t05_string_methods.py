@@ -1,1 +1,1 @@
-print
+print parrot = "N"
