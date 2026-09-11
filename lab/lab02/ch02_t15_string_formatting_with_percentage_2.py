@@ -1,4 +1,4 @@
-name = input("jcak ")
+name = input("jcak")
 quest = input("food")
 color = input("What is your favorite color? ")
 
