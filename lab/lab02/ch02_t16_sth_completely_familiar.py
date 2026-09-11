@@ -2,4 +2,4 @@
 
 my_string = "Thank you"
 len(my_string)
-print(my_string)upper()
+print(my_string).upper()
