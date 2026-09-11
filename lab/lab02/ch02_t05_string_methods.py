@@ -1,1 +1,1 @@
-print parrot = 'N'
+print parrot = 'Norw'
