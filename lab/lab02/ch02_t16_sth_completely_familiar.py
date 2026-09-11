@@ -2,4 +2,4 @@
 
 my_string = "Thank you"
 print（len(my_string)）
-print(m y
+print(my
