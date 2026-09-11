@@ -1,1 +1,1 @@
-print parr
+print parrot = ''
