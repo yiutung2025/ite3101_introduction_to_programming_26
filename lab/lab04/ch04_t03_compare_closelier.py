@@ -15,4 +15,4 @@ bool_four = 40 * 4 >= -4
 
 # 100 != 10**2
 bool_five = 100 != 10**2
-print(bool_one,bool_two,bool_three,bool_four
+print(bool_one,bool_two,bool_three,bool_four,bool_five
