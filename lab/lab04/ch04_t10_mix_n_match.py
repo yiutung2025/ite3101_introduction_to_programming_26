@@ -10,7 +10,7 @@ print(bool_two)
 bool_three = "tony" == "mike" or 4 == 10
 print(bool_three)
 # Make me true!
-bool_four =  9 = 9  not 0.8 = 0.08
+bool_four =  9 == 9  not 0.8 = 0.08
 print(bool_four)
 # Make me true!
 bool_five = 0 + 4 == 4 and 2 ** 2 == 4
