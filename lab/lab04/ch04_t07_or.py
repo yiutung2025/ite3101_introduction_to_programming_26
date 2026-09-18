@@ -4,6 +4,6 @@ bool_two = True or False
 print(bool_two)
 bool_three = 100 ** 0.5 >= 50 or False
 print(bool_three)
-bool_four = None
-
+bool_four = True or True
+print(bool_four)
 bool_five = None
