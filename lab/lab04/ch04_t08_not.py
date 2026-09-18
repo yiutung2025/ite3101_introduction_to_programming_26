@@ -5,5 +5,6 @@ print(bool_two)
 bool_three = not 10 % 3 <= 10 % 2
 print(bool_three)
 bool_four = not 3 ** 2 + 4 ** 2 != 5 ** 2
-print(bo)
+print(bool_four)
 bool_five = not not False
+print(bo)
