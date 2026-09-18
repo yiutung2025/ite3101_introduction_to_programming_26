@@ -9,10 +9,10 @@ bool_two = (10 + 17) == 3**16
 print(bool_two)
 # 1**2 <= -1
 bool_three = 1**2 <= -1
-p
+print(bool_three)
 # 40 * 4 >= -4
 bool_four = 40 * 4 >= -4
-
+print(b)
 # 100 != 10**2
 bool_five = 100 != 10**2
 print(bool_one, bool_two, bool_three, bool_four, bool_five)
