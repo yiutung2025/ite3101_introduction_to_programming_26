@@ -1,5 +1,5 @@
-bool_one = None
-
+bool_one = False or not True and True
+print(bo)
 bool_two = None
 
 bool_three = None

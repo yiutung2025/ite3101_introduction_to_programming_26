@@ -7,4 +7,4 @@ print(bool_three)
 bool_four = not 3 ** 2 + 4 ** 2 != 5 ** 2
 print(bool_four)
 bool_five = not not False
-print(bo)
+print(bool_five)
