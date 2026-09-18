@@ -8,7 +8,7 @@ bool_two = 6 != 6+1
 print (bool_two)
 # Make me true!
 bool_three = 7 >= 3
-
+print (bool_three)
 # Make me false!
 bool_four = 3 <= 2
 
