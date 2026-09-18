@@ -7,7 +7,7 @@ bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
 bool_two = 8 >= 4 or 7<10
 print(bool_two)
 # Make me false!
-bool_three = 
+bool_three = "tony"
 
 # Make me true!
 bool_four = None
