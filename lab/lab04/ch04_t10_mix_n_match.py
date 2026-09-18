@@ -2,7 +2,7 @@
 
 # Make me false!
 bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
-print(boo)
+print(bool_one)
 # Make me true!
 bool_two = 8 >= 4 or 7<10
 print(bool_two)
