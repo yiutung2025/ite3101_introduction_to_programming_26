@@ -3,7 +3,7 @@ print(bool_one)
 bool_two = False and not True or True
 print(bool_two)
 bool_three = None
-
+print()
 bool_four = None
 
 bool_five = None
