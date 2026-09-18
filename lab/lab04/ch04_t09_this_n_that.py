@@ -5,5 +5,5 @@ print(bool_two)
 bool_three = True and not (False or False)
 print(bool_three)
 bool_four = not not True or False and not True
-print(bo)
+print(bool_five)
 bool_five = None
