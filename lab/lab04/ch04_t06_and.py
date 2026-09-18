@@ -1,5 +1,5 @@
 bool_one = False and False
-
+print(bool_one)
 bool_two = None
 
 bool_three = None
