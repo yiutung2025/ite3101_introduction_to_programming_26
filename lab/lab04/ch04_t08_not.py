@@ -1,9 +1,9 @@
 bool_one = not True
 print(bool_one)
 bool_two = not 3 ** 4 < 4 ** 3
-print(bo)
+print(bool_two)
 bool_three = not 10 % 3 <= 10 % 2
-
+p
 bool_four = not 3 ** 2 + 4 ** 2 != 5 ** 2
 
 bool_five = not not False
