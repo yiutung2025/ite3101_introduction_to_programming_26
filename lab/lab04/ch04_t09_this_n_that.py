@@ -6,4 +6,5 @@ bool_three = True and not (False or False)
 print(bool_three)
 bool_four = not not True or False and not True
 print(bool_five)
-bool_five = None
+bool_five = False or not (True and True)
+print(bool_five)
