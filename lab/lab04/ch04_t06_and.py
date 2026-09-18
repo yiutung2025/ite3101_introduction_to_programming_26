@@ -1,7 +1,7 @@
 bool_one = False and False
 print(bool_one)
 bool_two = -(-(-(-2))) == -2 and 4 >= 16 ** 0.5
-print()
+print(bool_two)
 bool_three = None
 
 bool_four = None
