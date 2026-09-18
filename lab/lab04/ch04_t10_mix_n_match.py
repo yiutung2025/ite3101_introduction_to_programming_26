@@ -11,6 +11,6 @@ bool_three = "tony" == "mike" or 4 == 10
 print(bool_three)
 # Make me true!
 bool_four =  9 != 0.9 not 0.8 = 0.08
-print(boo)
+print(bool_four)
 # Make me true!
 bool_five = None
