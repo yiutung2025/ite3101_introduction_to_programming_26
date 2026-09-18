@@ -10,7 +10,7 @@ print(bool_two)
 bool_three = "tony" == "mike" or 4 == 10
 print(bool_three)
 # Make me true!
-bool_four = None
+bool_four = 
 
 # Make me true!
 bool_five = None
