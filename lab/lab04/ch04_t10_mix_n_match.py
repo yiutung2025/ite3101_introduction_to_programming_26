@@ -14,4 +14,4 @@ bool_four =  9 != 0.9 not 0.8 = 0.08
 print(bool_four)
 # Make me true!
 bool_five = 0 + 4 == 4 and 2 ** 2 == 4
-print(bo)
+print(bool_five)
