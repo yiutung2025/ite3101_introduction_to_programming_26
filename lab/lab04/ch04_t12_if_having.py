@@ -1,5 +1,5 @@
 def using_control_once() -> str:
-    if :
+    if 10 》:
         return "Success #1"
 
 
