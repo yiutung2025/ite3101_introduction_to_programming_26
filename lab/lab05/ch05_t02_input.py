@@ -1,4 +1,4 @@
 print('Welcome to the Pig Latin Translator!')
 input("Enter a word: ") 
 # Start coding here!
-original = 
+original = input("Enter a word: ") 
