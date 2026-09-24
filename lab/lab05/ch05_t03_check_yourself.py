@@ -1,1 +1,1 @@
-if len()
+if len(original) 
