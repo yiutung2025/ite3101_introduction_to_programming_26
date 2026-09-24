@@ -1,1 +1,1 @@
-: ythonpay -> ythonpay
+:pyg  -> ythonpay
