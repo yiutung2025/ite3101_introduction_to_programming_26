@@ -1,5 +1,5 @@
 def greater_less_equal_5(answer: int) -> int:
-    if INT > 5
+    if 
         return 1
     elif INT < 5
         return -1
