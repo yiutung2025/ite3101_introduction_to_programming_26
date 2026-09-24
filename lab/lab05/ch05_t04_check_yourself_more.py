@@ -9,3 +9,7 @@ else:
     print("empty")
 if original.isalpha():
     print(original)
+
+    if len(original) > 0 and original.isalpha():
+    print(original)
+else:
