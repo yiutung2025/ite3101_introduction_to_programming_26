@@ -1,6 +1,6 @@
 print('Welcome to the Pig Latin Translator!')
 
-# Start coding here
+# Start coding here:
 
 if len("original") > 0:
     print("original")
