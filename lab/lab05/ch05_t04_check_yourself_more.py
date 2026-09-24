@@ -8,4 +8,4 @@ if len(original) > 0:
 else:
     print("empty")
 if original.isalpha():
-    
+    print(original)
