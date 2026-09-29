@@ -1,9 +1,5 @@
-def distance_from_zero(xxx): 
-  if type(xxx) == int or type(xxx) == float:
-    return abs(xxx)
-
-max(2, 3, 4) # 4 
-min(2, 3, 4) # 2 
-
-abs(2) # 2 
-abs(-2) # 2
+def distance_from_zero(xxx):
+    if type(xxx) == int or type(xxx) == float:
+        return abs(xxx)
+    else:
+        return "Nope"
