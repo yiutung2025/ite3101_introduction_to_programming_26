@@ -3,4 +3,4 @@ def power(base:int, exponent:int):  # Add your parameters here!
     print("%d to the power of %d is %d." % (base, exponent, result))
 
 
-power(3 ， 4)  # Add your arguments here!
+power(2 , 4)  # Add your arguments here!
