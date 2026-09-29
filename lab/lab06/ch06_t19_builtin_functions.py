@@ -1,4 +1,4 @@
-def distance_from_zero(choose any argument name you like): 
+def distance_from_zero(xxx): 
   return type(num) == int or type(num) == float
 
 max(2, 3, 4) # 4 
