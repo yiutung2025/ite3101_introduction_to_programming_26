@@ -1,4 +1,4 @@
-def is_numeric(num)->bool: 
+def distance_from_zero(num)->bool: 
   return type(num) == int or type(num) == float
 
 max(2, 3, 4) # 4 
