@@ -5,5 +5,4 @@ def by_three(number:int):
         return cube
     else:
         return False
-        
     
