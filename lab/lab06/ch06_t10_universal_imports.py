@@ -1,2 +1,2 @@
 # Import *everything* from the math module on line 3!
-from mod import *
+from module import *
