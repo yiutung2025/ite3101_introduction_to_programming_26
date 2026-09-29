@@ -1,2 +1,3 @@
 def cube(number:int):
-    return number ***
+    return number ** 3
+
