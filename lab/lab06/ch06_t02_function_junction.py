@@ -4,4 +4,4 @@
 
 def spam(eggs!)
 # Define the spam function above this line.
-spam()
+print spam()
