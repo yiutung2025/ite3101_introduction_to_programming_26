@@ -6,3 +6,6 @@ webster = {
 }
 
 # Add your code below!
+for skill in webster:
+    print(webster[skill])
+

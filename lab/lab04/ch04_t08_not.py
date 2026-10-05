@@ -1,9 +1,10 @@
-bool_one = None
-
-bool_two = None
-
-bool_three = None
-
-bool_four = None
-
-bool_five = None
+bool_one = not True
+print(bool_one)
+bool_two = not 3 ** 4 < 4 ** 3
+print(bool_two)
+bool_three = not 10 % 3 <= 10 % 2
+print(bool_three)
+bool_four = not 3 ** 2 + 4 ** 2 != 5 ** 2
+print(bool_four)
+bool_five = not not False
+print(bool_five)
